@@ -29,7 +29,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldO-dev&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
   </a>
   -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldO-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -37,11 +36,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <br>
+   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
+ <!--  <br>
   <br>
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">-->
 </p>
 <br>
 <br>
