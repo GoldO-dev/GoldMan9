@@ -66,4 +66,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldo-dev&show_icons=true&locale=en&layout=compact" alt="goldo-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldo-dev&show_icons=true&locale=en" alt="goldo-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GoldO-dev&show_icons=true&locale=en" alt="goldo-dev" /></p>
