@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 ```yaml
 Developing the vRP 3 Framwork for FiveM
 ```
+  Most of my projects isn't open source or public
   
 ## Languages and Tools:
 
