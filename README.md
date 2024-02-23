@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi, 👋 I’m GoldO! 
 
+## I'm mainly doing commissions at the moment. Therefor most of my repositiories are forks. This also means that I don't have that much public stuff.
+
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔭 I’m currently working on ...
 ```yaml
